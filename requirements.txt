@@ -1,0 +1,5 @@
+cutlet==0.1.19
+fugashi==1.1.2
+jaconv==0.3
+mojimoji==0.0.12
+unidic-lite==1.0.8
